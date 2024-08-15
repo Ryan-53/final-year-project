@@ -12,4 +12,6 @@ To run program:
 
 2. Run batch file prediction_app.bat to start application
 
-  Alternatively you can run python app.py in the command line
+  Alternatively you can run python app.py in the command line if in the
+  cnn_prediction_system directory (it will not run properly unless in
+  directory when launching app.py)
